@@ -3,4 +3,5 @@ Repository contains typical and interesting examples of my Python code. Also, I 
 
 Hi!
 
-My name is Dmitry and I like coding in Python!
+My name is Dmitry Zakharenko and I like coding in Python! I would like to make some changes soon!
+It is my training part of learning github site.
